@@ -86,6 +86,7 @@ namespace Console
             //document.Add(new TextFieldLayoutElement { Name = $"{nameof(KOREAN)} {4.ToString()}", Font = font, Value = KOREAN, FontSize = 12f }.SetWidth(400).SetHeight(20));
 
             document.Close();
+
         }
 
         public static void ShowFontInfo(Document document, string fontName)
