@@ -87,6 +87,7 @@ namespace Console
 
             document.Close();
 
+
         }
 
         public static void ShowFontInfo(Document document, string fontName)
